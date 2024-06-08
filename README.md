@@ -8,4 +8,4 @@ Objective: This project contains insights into credit card transactions made in 
 • Breakdown of transactions by card type.<br>
 • Breakdown of transactions by expense type.<br>
 • Geographical distribution of transactions.<br>
-Credit card transaction project document
+
